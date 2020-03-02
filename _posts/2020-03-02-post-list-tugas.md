@@ -10,7 +10,7 @@ tags:
 "LIST TUGAS MARET"
 
 * Proyek 1
-[] Teknik Pemrograman (Teori+Praktek)
-[x] Komunikasi Teknis dan Bisnis
+* Teknik Pemrograman (Teori+Praktek)
+* Komunikasi Teknis dan Bisnis
 
 >Mantaaap
