@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/bio.jpg"
   bio              : "~"
   location         : "Bandung"
-  email            : "salmanshalahuddin133@gmail.com"
+  email            : #"salmanshalahuddin133@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
