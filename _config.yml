@@ -24,8 +24,8 @@ description              : "Penugasan penggunaan blog pada git"
 url                      : "https://ssalman172.github.io"
 baseurl                  : "/blog"
 repository               : "ssalman172/minimal-mistakes"
-teaser                   : "assets/images/500x300.jpg"
-logo                     : "assets/images/88x88.jpg"
+teaser                   : #"assets/images/500x300.jpg"
+logo                     : #"assets/images/88x88.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
