@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Blog git Salman"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Proyek 1"
 name                     : "Salman Shalahuddin"
 description              : "Penugasan penggunaan blog pada git"
-url                      : "https://salman.github.io"
+url                      : "https://ssalman172.github.io"
 baseurl                  : "/blog"
 repository               : "ssalman172/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "assets/images/500x300.jpg"
+logo                     : "assets/images/88x88.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Salman Shalahuddin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio.jpg"
   bio              : "~"
   location         : "Bandung"
-  email            :
+  email            : "salmanshalahuddin133@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
