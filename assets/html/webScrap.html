@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<title>Republika Headlines</title>
+<script src="https://code.jquery.com/jquery-3.1.1.js"> </script>
+
+<script>
+   $(document).ready(function() {
+
+        $.getJSON('scrap.json', function(data) {
+            var headline = '';
+            var n=1;
+            headline+="<table border='1'><tr><td>No</td><td>Kategori</td><td>Judul Headline</td><td>Waktu</td></tr>"
+       $.each(data, function(key, isi) {
+            headline += '<tr>';
+            headline += '<td>'+n+'</td>'
+            headline += '<td>'+isi.Kategori+'</td>'
+            headline += '<td>'+isi.Judul+'</td>'
+            headline += '<td>'+isi.Waktu+'</td>'
+            headline += '</tr>';
+            n=n+1;
+     });
+    $('#headline').append(headline);
+   });
+});
+</script>
+</head>
+
+<body>
+
+    <h1>Headline Republika Online</h1>
+
+    <div id="headline"></div>
+
+</body>
+</html>

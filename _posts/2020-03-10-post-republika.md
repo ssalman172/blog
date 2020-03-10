@@ -8,4 +8,4 @@ tags:
 ---
 
 Web Scrapping republica.co.id dengan python:
-~soon~
+[Check newest news](assets/html/webScrap.html)
