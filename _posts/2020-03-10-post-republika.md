@@ -7,5 +7,5 @@ tags:
   - link
 ---
 
-Web Scrapping republica.co.id dengan python:
+Web Scrapping republika.co.id dengan python:
 [Check latest news](assets/html/Republika.html)
