@@ -8,4 +8,4 @@ tags:
 ---
 
 Web Scrapping republika.co.id dengan python:
-<a href="../Republika.html">Check latest news</a>
+[Check latest news](../Republika.html)
